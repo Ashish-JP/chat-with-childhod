@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ghazala ki Badi Besti 🤣</title>
+    <style>
+        body { 
+            font-family: Arial, sans-serif; 
+            text-align: center; 
+            background-color: #fce4ec;
+        }
+        h1 { color: #d81b60; }
+        p { font-size: 20px; font-weight: bold; }
+        .emoji { font-size: 50px; }
+    </style>
+</head>
+<body>
+    <h1>😂 Ghazala Ki Besti Moment 😂</h1>
+    <p class="emoji">🤡🤡🤡</p>
+    <p>Ghazala jab intelligent banne ki koshish karti hai,  
+    toh Google bhi error de deta hai! 🤣</p>
+    <p class="emoji">🚀🔥💀</p>
+</body>
+</html>
